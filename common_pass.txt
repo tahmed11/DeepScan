@@ -1,0 +1,7 @@
+password
+admin
+root
+toor
+12345
+123456
+test
