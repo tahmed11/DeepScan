@@ -4,7 +4,7 @@ A simple shell script which utilizes nmap, nikto, dirb, enum4linux and other ope
 Usage:
 ./DeepScan target-ip-address or URL
 
-N.B: Ensure common_usernames.txt and common_pass.txt is in the same folder. Or just use your own usernames and default password based on your enumeration whatever floats your boat.  
+N.B: Ensure common_usernames.txt and common_pass.txt is in the same folder. Or just use your own usernames and passwords based on your enumeration whatever floats your boat as long as it works.  
 
-Help yourself and modify as you wish.
+Help yourself and modify the script as you wish.
 Scan away
