@@ -1,4 +1,5 @@
 #!/bin/bash
+#DeepScan v1.1
 TARGET="$1"
 USER_FILE="common_usernames.txt"
 PASS_FILE="/usr/share/wordlists/metasploit/burnett_top_1024.txt"
